@@ -17,6 +17,7 @@ For a high-level overview of our efforts, see the
 
 ## Details
 
+
 This repository provides a set of [tools](exegesis/tools/README.md) for
 extracting data about instructions and latencies from canonical sources and
 converting them into machine-readable form. Some require parsing PDF files;
